@@ -20,6 +20,7 @@ console.log(friendsAge);
 console.log(lastItem);
 
 // Javascript remove first item from an array!!
+//shift diye korte hoy
 // Javascript array and element in the beginning!!!
 
 
